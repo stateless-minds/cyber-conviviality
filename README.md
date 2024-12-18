@@ -108,7 +108,7 @@ cd kubo
 make build
 ./cmd/ipfs/ipfs daemon --enable-pubsub-experiment
 ```
-7.  Navigate to <a href="https://ipfs.io/ipns/k51qzi5uqu5dgw8gbjzw16d1q2rmtkip85yklwk7aknkoc1fkf4qtaxb90ltc7">Cyber Hike</a>
+7.  Navigate to <a href="https://ipfs.io/ipns/k51qzi5uqu5dgw8gbjzw16d1q2rmtkip85yklwk7aknkoc1fkf4qtaxb90ltc7">Cyber Conviviality</a>
 8.  If you like the app consider pinning it to your local node so that you become a permanent host of it while you have IPFS daemon running
 ![SetPinning](./assets/pin.png)
 ![PinToLocalNode](./assets/pin-to-local-node.png)
